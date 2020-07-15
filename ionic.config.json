@@ -1,0 +1,7 @@
+{
+  "name": "Barter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
